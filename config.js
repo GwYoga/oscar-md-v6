@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['628989513496'] //ur owner number
-global.ownername = "Bang FD" //ur owner name
-global.developer = "Bang FD" //nama lu
-global.ytname = "YT: Jarot offc" //ur yt chanel name
+global.vcardowner = ['62856098163731'] //ur owner number
+global.ownername = "YogaCD" //ur owner name
+global.developer = "YogaCD" //nama lu
+global.ytname = "YT: Yogaffc" //ur yt chanel name
 global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
 global.sgc = "https://chat.whatsapp.com/IqZke0cAG69myfL"
-global.location = "Jatim" //ur location
+global.location = "Bengkulu" //ur location
 
 //bot bomdy 
-global.owner = ['628989513496'] //ur number
-global.ownernomer = "628989513496" //ur number
-global.ownertag = '628989513496' //ur tag number
-global.premium = ['628989513496'] //ur premium number
-global.botname = 'Neko-Bot' //ur bot name
-global.ownername = "Bang FD"
+global.owner = ['62856098163731'] //ur number
+global.ownernomer = "62856098163731" //ur number
+global.ownertag = '62856098163731' //ur tag number
+global.premium = ['62856098163731'] //ur premium number
+global.botname = 'Yoga-Bot' //ur bot name
+global.ownername = "YogaOwn"
 global.linkz = "https://youtube.com/@fuadxyro5248" //your theme url which will be displayed on whatsapp
-global.dana = "6285850539404"
-global.pulsa = "6285850539404"
+global.dana = "Pm Gweh"
+global.pulsa = "Pm Gweh"
 global.websitex = "https://youtube.com/@fuadxyro5248" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://youtube.com/@fuadxyro5248' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Neko-Bot" //ur sticker watermark author
-global.wm = "Bang FD" //ur watermark
+global.packname = "Sticker ByYoga" //ur sticker watermark packname
+global.author = "Yoga-Bot" //ur sticker watermark author
+global.wm ="Yoga"//ur watermark
 
 // Other
 global.sessionName = 'Session'
